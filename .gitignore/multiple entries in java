@@ -1,0 +1,7 @@
+enter1 = Entry(self,textvariable = shots1)
+enter1.place(x=1000, y=200)
+enter2 = Entry(self, textvariable = shots2)
+enter2.place(x=1000, y=250)
+enter3 = Entry(self, textvariable = shots3)
+enter3.place(x=1000, y=300)
+enter4 = Entry(self, textvariable = shots4)
