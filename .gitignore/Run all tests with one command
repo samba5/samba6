@@ -1,0 +1,5 @@
+
+4.you’re using ● The solution you provide has to run all tests with one command
+
+Let say for the example multiple executions configured in surefire plug-in within your POM, you may want ... (without the extension; we'll strip off the extension if you accidentally provide one). 
+Use syntax e.g. "foo/MyTest.java", "**/MyTest.java", "MyTest" for "test" ...
